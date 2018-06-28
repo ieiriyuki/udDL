@@ -1,0 +1,16 @@
+[[sources]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.6"
+
+[packages]
+imageio = "==2.3"
+numpy = "==1.14"
+scikit-learn = "==0.19"
+matplotlib = "==2.2"
+jupyter = "==1.0"
+tensorflow = "==1.8"
+
