@@ -1,7 +1,5 @@
 .*
-./data
-./data/*
-.\data
-.\data\*
 data
-
+Pipfile.lock
+ipynb/text8.zip
+ipynb/*.py
